@@ -1,7 +1,20 @@
+
+
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hệ thống giám sát nhiệt độ đa kênh LM35"
+excerpt: "Dự án đọc nhiệt độ từ 3 cảm biến, xuất định dạng JSON và quản lý mã nguồn bằng Git Flow chuyên nghiệp.<br/><img src='/images/arduino-thumb.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### 📝 Tổng quan dự án
+Dự án này tập trung vào việc xây dựng hệ thống thu thập dữ liệu nhiệt độ và thực hành kỹ năng làm việc nhóm trên Git/GitHub.
+
+### 🚀 Các tính năng đã thực hiện
+*   **Đọc đa kênh:** Xử lý tín hiệu đồng thời từ các chân A0, A1, A2.
+*   **Định dạng JSON:** Tối ưu hóa dữ liệu đầu ra để dễ dàng tích hợp Web/App.
+*   **Quản lý mã nguồn:** 
+    *   Tách nhánh (`feature branch`) để phát triển tính năng.
+    *   Xử lý xung đột (`Merge Conflict`) khi gộp mã nguồn giữa SV A và SV B.
+
+### 🔗 Link Repository
+Toàn bộ mã nguồn dự án tại đây: https://github.com/namdaoduy-04/Arduino_LM35_TempMonitor.git
