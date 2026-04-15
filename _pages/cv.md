@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+
+
+
+
 # HỌC VẤN
 *   **Học viện công nghệ bưu chính viễn thông cơ sở tại tp Hồ Chí Minh** (2023 - Nay)
     *   Ngành: IoT. Khoa Viễn Thông II
