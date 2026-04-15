@@ -1,6 +1,6 @@
 # HỌC VẤN
-*   **Trường Đại học Bách khoa - ĐHQG TP.HCM** (2022 - Nay)
-    *   Ngành: Điện tử Viễn thông.
+*   **Học viện công nghệ bưu chính viễn thông cơ sở tại tp Hồ Chí Minh** (2023 - Nay)
+    *   Ngành: IoT. Khoa Viễn Thông II
 *   **Chứng chỉ:** Git & GitHub Professional Workflow.
 
 # KỸ NĂNG
