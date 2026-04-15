@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "anhprofile.png"
+  avatar           : "anhprofile.jpg"
   name             : "Đào Duy Nam"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Embedded Engineer | IoT Enthusiast | Python & C++ Developer."
   location         : "Ho Chi Minh city, Vietnam"
-  employer         : "Posts and Telecommunications Institute of Technology"
+  employer         : "PTIT"
   uri              : # URL
   email            : "dduynam04@gmail.com" 
 
