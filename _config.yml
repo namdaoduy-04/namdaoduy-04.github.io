@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "anhprofile.jpg"
+  avatar           : "anhprofi.jpg"
   name             : "Đào Duy Nam"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Embedded Engineer | IoT Enthusiast | Python & C++ Developer."
