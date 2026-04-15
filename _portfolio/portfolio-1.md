@@ -1,8 +1,6 @@
-
-
 ---
 title: "Hệ thống giám sát nhiệt độ đa kênh LM35"
-excerpt: "Dự án đọc nhiệt độ từ 3 cảm biến, xuất định dạng JSON và quản lý mã nguồn bằng Git Flow chuyên nghiệp.<br/><img src='/images/arduino-thumb.jpg'>"
+excerpt: "Dự án đọc nhiệt độ từ 3 cảm biến, xuất định dạng JSON và quản lý mã nguồn bằng Git Flow chuyên nghiệp.<br/><img src='/images/profile.jpg'>"
 collection: portfolio
 ---
 
