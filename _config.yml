@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dao Duy Nam / Blog cá nhân "
+title                    : "Đào Duy Nam / Blog cá nhân "
 title_separator          : "-"
 name                     : &name "Đào Duy Nam"
 description              : &description "Sinh viên ngành IoT - Viễn Thông"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,7 @@ author:
   avatar           : "anhdaidien.jpg"
   name             : "Đào Duy Nam"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring Embedded Engineer <br> <img src='https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white'> <img src='https://img.shields.io/badge/C%2F%2C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white'> <img src='https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black'>"
-  location         : "Ho Chi Minh city, Vietnam"
+  bio              : "Aspiring Embedded Engineer | IoT Enthusiast | Python & C++ Developer."
   employer         : "PTIT"
   uri              : # URL
   email            : "dduynam04@gmail.com" 
