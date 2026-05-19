@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "anhdaidien.jpg"
-  name             : "Đào Duy Nam"
+  name             :       "Đào Duy Nam"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Embedded Engineer | IoT Enthusiast | Python & C++ Developer."
   employer         : "PTIT"
