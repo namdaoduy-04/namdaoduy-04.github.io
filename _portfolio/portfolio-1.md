@@ -1,5 +1,6 @@
 ---
-title: "<span style='background-color: #007bff; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; display: inline-block; font-size: 18px;'>Hệ thống giám sát nhiệt độ đa kênh LM35</span>"
+title: "<span style='background-color: #1a5276; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; display: inline-block; font-size: 18px;'>Hệ thống giám sát nhiệt độ đa kênh LM35</span>"
+
 
 excerpt: "Dự án đọc nhiệt độ từ 3 cảm biến, xuất định dạng JSON và quản lý mã nguồn bằng Git Flow chuyên nghiệp.<br/><img src='/images/lm35.png'>"
 collection: portfolio
